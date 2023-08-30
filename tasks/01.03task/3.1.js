@@ -1,0 +1,1 @@
+console.log(word_1 + ' ' + word_2);
